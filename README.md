@@ -1,3 +1,5 @@
-# fiction-private
+# fiction
+Reactive evaluation framework for expensive graph-based computations.
 
-Test change for mirroring
+# Test
+This is a test change for mirroring.
